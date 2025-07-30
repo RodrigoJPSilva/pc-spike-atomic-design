@@ -46,13 +46,16 @@
 - Ajuda no trabalho colaborativo entre **designers e desenvolvedores**
 - Melhora a **manutenção e escalabilidade** de projetos grandes
 
-Se quiser, posso te mostrar um exemplo visual para cada etapa ou te ajudar a aplicar essa metodologia em um projeto seu.
 
 ## Átomos
 
 ![1_RdbLlQS0RpmRQ3Bw5hJbxA.webp](attachment:ad5b1b53-00ae-4642-baaa-29e5c67357e8:1_RdbLlQS0RpmRQ3Bw5hJbxA.webp)
+<img width="490" height="243" alt="image" src="https://github.com/user-attachments/assets/fc46734b-9bdd-4328-a89c-5ad33d7b3953" />
 
 Eles são os primeiros elementos a serem criados em um site, são as partes basicas,  por exemplo:
+Elementos e padrões de cores e botões, ou em outras palavras, tokens de design
+<img width="494" height="521" alt="image" src="https://github.com/user-attachments/assets/c5504408-152e-4bc6-9480-aee3f4ff4b6e" />
+
 
 ![image.png](attachment:81de638f-06bc-45e7-91a6-f21f74da3156:image.png)
 
