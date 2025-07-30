@@ -1,3 +1,5 @@
+<img width="1040" height="583" alt="image" src="https://github.com/user-attachments/assets/9708371e-554e-459e-95b4-37a7f26df52a" />
+
 **Atomic Design** é uma metodologia de criação de interfaces desenvolvida por **Brad Frost**, que organiza os componentes de um design de forma hierárquica e reutilizável, inspirada na química (átomos, moléculas, etc.). O objetivo é tornar o desenvolvimento de interfaces **mais modular, consistente e escalável**.
 
 ### Os 5 níveis do Atomic Design:
