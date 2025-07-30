@@ -51,6 +51,7 @@
 
 Eles são os primeiros elementos a serem criados em um site, são as partes basicas,  por exemplo:
 Elementos e padrões de cores e botões, ou em outras palavras, tokens de design
+
 <img width="494" height="521" alt="image" src="https://github.com/user-attachments/assets/c5504408-152e-4bc6-9480-aee3f4ff4b6e" />
 
 
