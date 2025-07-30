@@ -2,8 +2,6 @@
 
 **Atomic Design** é uma metodologia de criação de interfaces desenvolvida por **Brad Frost**, que organiza os componentes de um design de forma hierárquica e reutilizável, inspirada na química (átomos, moléculas, etc.). O objetivo é tornar o desenvolvimento de interfaces **mais modular, consistente e escalável**.
 
-https://www.figma.com/design/ymvzU1L614mAVnVmUYnJiT/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=1-2&p=f&t=lYgVQPDrkjSOkv5t-0
-link do NEXCENT
 
 ### Os 5 níveis do Atomic Design:
 
@@ -55,6 +53,9 @@ link do NEXCENT
 Eles são os primeiros elementos a serem criados em um site, são as partes basicas,  por exemplo:
 Elementos e padrões de cores e botões, ou em outras palavras, tokens de design
 
+https://www.figma.com/design/ymvzU1L614mAVnVmUYnJiT/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=1-2&p=f&t=lYgVQPDrkjSOkv5t-0
+
+link do NEXCENT
 <img width="494" height="521" alt="image" src="https://github.com/user-attachments/assets/c5504408-152e-4bc6-9480-aee3f4ff4b6e" />
 
 
