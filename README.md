@@ -34,8 +34,6 @@
     
     São **instâncias reais dos templates**, com **conteúdo final e específico**. São úteis para testar a usabilidade e consistência visual.
     
-    ![image.png](attachment:3524bc39-8e50-419b-892e-ab5e4644b452:image.png)
-    
 
 ---
 
@@ -49,7 +47,6 @@
 
 ## Átomos
 
-![1_RdbLlQS0RpmRQ3Bw5hJbxA.webp](attachment:ad5b1b53-00ae-4642-baaa-29e5c67357e8:1_RdbLlQS0RpmRQ3Bw5hJbxA.webp)
 <img width="490" height="243" alt="image" src="https://github.com/user-attachments/assets/fc46734b-9bdd-4328-a89c-5ad33d7b3953" />
 
 Eles são os primeiros elementos a serem criados em um site, são as partes basicas,  por exemplo:
@@ -57,30 +54,18 @@ Elementos e padrões de cores e botões, ou em outras palavras, tokens de design
 <img width="494" height="521" alt="image" src="https://github.com/user-attachments/assets/c5504408-152e-4bc6-9480-aee3f4ff4b6e" />
 
 
-![image.png](attachment:81de638f-06bc-45e7-91a6-f21f74da3156:image.png)
-
-![image.png](attachment:02ae12e6-607f-41f8-a0dd-df6becc8a1d9:image.png)
-
 ## Moléculas
-
-![1_OHeV_LO3mGilt7z60RHPgA.webp](attachment:90998339-0839-4379-aa08-c08427438eea:1_OHeV_LO3mGilt7z60RHPgA.webp)
 
 Elas são conjuntos de átomos, ou elementos em um site, por exemplo: 
 
 ## Organismos
 
-![1_lfP46ddcd2kOjg4Ce8ZhgA.webp](attachment:0e2f72e6-c7f4-41cd-b683-db810a178326:1_lfP46ddcd2kOjg4Ce8ZhgA.webp)
-
 Conjuntos de moléculas, formando um organismo, como main, section e header, por exemplo:
 
 ## Templates
 
-![1_e8nZjPozJoPZ_NjgR6M1WQ.webp](attachment:1f16e995-0877-4de1-a779-0023b6abc9fb:1_e8nZjPozJoPZ_NjgR6M1WQ.webp)
-
 Templates são praticamente páginas prontas, porém, sem conteúdo, podem ser utilizadas para mais de um site.
 
 ## Páginas
-
-![1_-BCQkJ587iBYwue-SNrTYw.webp](attachment:f5dffcb0-f596-4009-902d-fda6f8a63b8f:1_-BCQkJ587iBYwue-SNrTYw.webp)
 
 Páginas são um site já completo.
